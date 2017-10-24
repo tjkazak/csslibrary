@@ -1,3 +1,16 @@
+/* */
 body{
-	background-color: red;
+	background-color: grey;
+}
+
+/* PERIOD is a  CLASS can be used multiple times - school period... reference*/
+.wrapper{
+	/*text-indent: 50px;*/
+	margin: 10px;
+}
+
+/* ID is a target for a single time - target a photo*/
+#css-photo{
+	height: 300px;
+	width: 300px;
 }
