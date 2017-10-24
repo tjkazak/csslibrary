@@ -1,0 +1,28 @@
+body{
+	background-color: grey;
+}
+
+#header-text{
+	color: whitesmoke;
+}
+
+#container{
+	background-color: blue;
+	display: inline-block;
+	width: 400px;
+	height: 400px;
+}
+
+#contents{
+	background-color: green;
+	display: inline-block;
+	width: 320px;
+	height: 320px;
+	margin: 40px 25px 15px 30px;
+	/*top right bottom left*/
+/*	margin-left: 40px;
+	margin-top: ;
+	margin-right: ;
+	margin-bottom: ;
+*/
+}
