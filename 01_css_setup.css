@@ -1,0 +1,22 @@
+body{
+	background-color: red;
+}
+
+.css-classes{
+	background-color: lightgrey;
+	border: 10px solid blue;
+}
+
+.css-classes-Silver{
+	background-color: lightgrey;
+	color: green;
+}
+
+.css-classes-Gold{
+	background-color: lightgrey;
+	color: blue;
+}
+
+p{
+	color: green;
+}
