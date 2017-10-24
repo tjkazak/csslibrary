@@ -6,6 +6,16 @@ body{
 	color: whitesmoke;
 }
 
+.content1{
+	background-color: green;
+	display: inline-block;
+	width: 180px;
+	height: 180px;
+	margin-left: 10px;
+	margin-top: 10px;
+
+}
+
 #container{
 	background-color: blue;
 	display: inline-block;
@@ -18,11 +28,43 @@ body{
 	display: inline-block;
 	width: 320px;
 	height: 320px;
-	margin: 40px 25px 15px 30px;
+	margin: 40px;
 	/*top right bottom left*/
 /*	margin-left: 40px;
 	margin-top: ;
 	margin-right: ;
 	margin-bottom: ;
 */
+}
+#content1{
+	background-color: red;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin: 25px;
+	padding: 0px 0px 0px 0px;
+	/*top pushes down*/
+	/*right pulls right*/
+	/*bottom pulls down*/
+	/*left pushes left*/
+
+}
+#content2{
+	background-color: green;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+}
+#content3{
+	background-color: yellow;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	margin: 25px;*/
+}
+#content4{
+	background-color: orange;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
 }
